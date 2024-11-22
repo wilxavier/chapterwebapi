@@ -11,5 +11,15 @@ namespace Chapter.WebApi.Controllers
     [ApiController]
     public class LivrosController : ControllerBase
     {
+        private readonly LivroRespository _livroRepository;
+        public LivrosController(LivroRespository livroRepository)
+        {
+            _livroRepository = livroRepository; 
+        }
+        [HttpGet]
+        public IAction IActionResult Listar()
+        {
+            return Ok(_livroRepository.Listar());
+        }
     }
 }
