@@ -20,7 +20,8 @@ namespace Chapter.WebApi.Contexts
             if(!optionsBuilder.IsConfigured)
             {
                 //string de conexao da máquina
-                optionsBuilder.UseSqlServer("Server=localhost\\SQLEXP...;" +"Database=Chapter;Trusted_Connection=True;");
+                optionsBuilder.UseSqlServer("Server=HP\\SQLEXPRESS;" 
+                +"Database=Chapter;Trusted_Connection=True;");
                 // Exemplo 1 de string de conexão:
                 // User ID=sa;Password=admin;Server=localhost;Database=Chapter;
                 // + Trusted_Connection=False;

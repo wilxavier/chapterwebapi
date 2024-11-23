@@ -11,6 +11,8 @@ namespace Chapter.WebApi.Repositories
     public class LivroRepository
     {
         private readonly ChapterContext _context;
+
+        public LivroRepository(ChapterContext context)
         {
             _context = _context;
         }
