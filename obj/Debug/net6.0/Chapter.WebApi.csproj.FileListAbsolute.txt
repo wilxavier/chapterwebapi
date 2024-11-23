@@ -266,3 +266,13 @@
 /home/neo/Documents/Dev/Senai/Backend/API-BACKEND/Chapter.WebApi/obj/Debug/net6.0/ref/Chapter.WebApi.dll
 /home/neo/Documents/Dev/Senai/Backend/API-BACKEND/Chapter.WebApi/obj/Debug/net6.0/Chapter.WebApi.pdb
 /home/neo/Documents/Dev/Senai/Backend/API-BACKEND/Chapter.WebApi/obj/Debug/net6.0/Chapter.WebApi.genruntimeconfig.cache
+C:\Users\neo\Documents\Dev\Senai\BackEnd\chapterwebapi\obj\Debug\net6.0\Chapter.WebApi.csproj.AssemblyReference.cache
+C:\Users\neo\Documents\Dev\Senai\BackEnd\chapterwebapi\obj\Debug\net6.0\Chapter.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neo\Documents\Dev\Senai\BackEnd\chapterwebapi\obj\Debug\net6.0\Chapter.WebApi.AssemblyInfoInputs.cache
+C:\Users\neo\Documents\Dev\Senai\BackEnd\chapterwebapi\obj\Debug\net6.0\Chapter.WebApi.AssemblyInfo.cs
+C:\Users\neo\Documents\Dev\Senai\BackEnd\chapterwebapi\obj\Debug\net6.0\Chapter.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\neo\Documents\Dev\Senai\BackEnd\chapterwebapi\obj\Debug\net6.0\Chapter.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\neo\Documents\Dev\Senai\BackEnd\chapterwebapi\obj\Debug\net6.0\Chapter.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\neo\Documents\Dev\Senai\BackEnd\chapterwebapi\obj\Debug\net6.0\Chapter.WebApi.sourcelink.json
+C:\Users\neo\Documents\Dev\Senai\BackEnd\chapterwebapi\obj\Debug\net6.0\Chapter.WebApi.dll
+C:\Users\neo\Documents\Dev\Senai\BackEnd\chapterwebapi\obj\Debug\net6.0\Chapter.WebApi.pdb
