@@ -12,6 +12,8 @@ namespace Chapter.WebApi.Models
         public int QuantidadePaginas { get; set; }
         public bool Disponivel { get; set; }
         
+        
+        
 
     }
 }
